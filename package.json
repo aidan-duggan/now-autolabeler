@@ -4,9 +4,9 @@
   "description": "pr labeler",
   "author": "Aidan Duggan",
   "license": "ISC",
-  "repository": "https://github.com/{{ owner }}/{{ repo }}.git",
-  "homepage": "https://github.com/{{ owner }}/{{ repo }}",
-  "bugs": "https://github.com/{{ owner }}/{{ repo }}/issues",
+  "repository": "https://github.com/aidan-duggan/now-autolabeler.git",
+  "homepage": "https://github.com/aidan-duggan/now-autolabeler",
+  "bugs": "https://github.com/aidan-duggan/now-autolabeler/issues",
   "keywords": [
     "probot",
     "github",
