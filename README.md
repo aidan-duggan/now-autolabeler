@@ -1,6 +1,6 @@
-# {{ name }}
+# Probot Autolabeler for Zeit Now
 
-> a GitHub App built with [probot](https://github.com/probot/probot) that {{ description }}
+> a GitHub App built with [probot](https://github.com/probot/probot) that auto labels PRs
 
 ## Setup
 
