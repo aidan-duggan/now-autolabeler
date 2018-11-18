@@ -16,11 +16,11 @@
     "dev": "nodemon --exec \"npm start\"",
     "start": "probot run ./index.js",
     "now-start": "PRIVATE_KEY=$(echo $PRIVATE_KEY_BASE64 | base64 -d) probot run ./index.js",
-    "lint": "standard --fix",
-    "test": "jest && standard",
-    "test:watch": "jest --watch --notify --notifyMode=change --coverage"
+    "lint": "standard --fix"
   },
   "dependencies": {
+    "ignore": "^3.3.3",
+    "js-yaml": "^3.9.0",
     "probot": "^7.0.0"
   },
   "devDependencies": {

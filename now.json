@@ -1,4 +1,6 @@
 {
+  "version": 1, 
+  "type":"npm",
   "env": {
     "NODE_ENV": "production",
     "APP_ID": "@app-id",
